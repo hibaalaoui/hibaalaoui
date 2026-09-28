@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hibaalaoui/hibaalaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hiba Alaoui
 
-Here are some ideas to get you started:
+### Junior Software Engineer · DevOps & Cloud · Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/hibaalaoui">
+  <img src="https://img.shields.io/github/followers/hibaalaoui?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://linkedin.com/in/hiba-alaoui-2a97b1288/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hiba%20Alaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:hiibaalaoui@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hiibaalaoui%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=hibaalaoui&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
