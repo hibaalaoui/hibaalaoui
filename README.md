@@ -15,5 +15,5 @@
 </a>
 </div>
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/hibaalaoui/hibaalaoui/main/banner.png" alt="Hiba Alaoui Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/hibaalaoui/hibaalaoui/main/banner1.png" alt="Hiba Alaoui Banner" />
 </div>
