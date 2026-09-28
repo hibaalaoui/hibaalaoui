@@ -17,7 +17,9 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/hibaalaoui/hibaalaoui/main/banner1.png" alt="Hiba Alaoui Banner" />
 </div>
+
 ## 👨‍💻 About Me
+
 <p>
   <img src="https://img.shields.io/badge/Name-Hiba%20Alaoui-1f6feb?style=for-the-badge" alt="Name: Hiba Alaoui" />
   <img src="https://img.shields.io/badge/Experience-4%20Internships-2ea44f?style=for-the-badge" alt="Experience: 4 Internships" />
