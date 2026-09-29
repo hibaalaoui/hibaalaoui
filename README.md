@@ -1,135 +1,119 @@
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/hibaalaoui/hibaalaoui/main/banner1.png" alt="Hiba Alaoui – Software & DevOps Engineer" />
-</div>
+<h1 align="center">Hi there, I'm Hiba Alaoui! 👋</h1>
 
-<div align="center">
+<p align="center">
+  <a href="https://hibaalaoui.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F6FB3&center=true&vCenter=true&width=520&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;ENSIAS%2726+Graduate" alt="Software Engineer · DevOps Engineer · Full-Stack Developer · ENSIAS'26 Graduate" />
+  </a>
+</p>
 
-# Hello 👋, I'm Hiba Alaoui
+<p align="center">
+  <a href="https://hibaalaoui.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hiba-alaoui"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:hiibaalaoui@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
+</p>
 
-**Software & DevOps Engineer · Full-Stack Developer · ENSIAS'26 Graduate**
+## 🎓 About Me
 
-<a href="https://hibaalaoui.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hibaalaoui.vercel.app-2F6FB3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/hiba-alaoui"><img src="https://img.shields.io/badge/LinkedIn-Hiba%20Alaoui-2F6FB3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hiibaalaoui@gmail.com"><img src="https://img.shields.io/badge/Email-hiibaalaoui%40gmail.com-2F6FB3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+State Engineer in **Software Engineering and Information Systems** from **ENSIAS**
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-6A9FD8?style=flat-square" alt="Open to opportunities" />
-<img src="https://img.shields.io/badge/Location-Morocco%20(flexible)-6A9FD8?style=flat-square" alt="Location: Morocco" />
+Passionate about **DevOps, Cloud & Full-Stack Development**
 
-</div>
+- 💼 **4 internships** in banking and industrial environments, from requirements to production
+- 🔭 Focus: **CI/CD, containerization, Infrastructure as Code** and **microservices architectures**
+- 🚀 Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
+- 🌍 Languages: French (**C2**, TCF certified), English (B2+), Arabic (Native)
+- 📫 How to reach me: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
+- 🌐 Portfolio: [hibaalaoui.vercel.app](https://hibaalaoui.vercel.app)
 
----
-
-## 👩‍💻 About Me
-
-State Engineer in **Software Engineering and Information Systems** from **ENSIAS**, focused on **DevOps practices** (CI/CD, containerization, Infrastructure as Code), **cloud deployment** and **full-stack development** (Spring Boot, React, Angular) with **microservices architectures**.
-
-- 💼 **4 internships** in banking and industrial environments, designing, delivering and containerizing modules and APIs from requirements to production
-- 🔭 Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
-- 🌍 **Languages:** French (C2, TCF certified) · English (B2+, professional) · Arabic (native)
-- 📫 **Reach me:** [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
-
-<div align="center">
-
-| **+4** | **+5** | **+5** | **C2** | **+3** |
-|:---:|:---:|:---:|:---:|:---:|
-| Internships | Projects | Certifications | French (TCF) | Leadership & student life |
-
-</div>
-
----
+<p align="center">
+  <b>💼 4</b> internships &nbsp;·&nbsp; <b>🚀 5</b> projects &nbsp;·&nbsp; <b>🏆 5</b> certifications &nbsp;·&nbsp; <b>🇫🇷 C2</b> French (TCF) &nbsp;·&nbsp; <b>🤝 3</b> leadership roles
+</p>
 
 ## 🛠️ Tech Stack
 
-**DevOps & CI/CD**
-<p><img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,maven&theme=light" alt="DevOps and CI/CD" /></p>
+### DevOps & CI/CD
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,maven" />
+</div>
 
-**Cloud & Infrastructure as Code**
-<p><img src="https://skillicons.dev/icons?i=azure,gcp,aws,terraform,ansible&theme=light" alt="Cloud and IaC" /></p>
+### Cloud & Infrastructure as Code
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,terraform,ansible" />
+</div>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=java,spring&theme=light" alt="Backend" /></p>
+### Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</div>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,redux,angular,ts,js&theme=light" alt="Frontend" /></p>
+### Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,ts,js" />
+</div>
 
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" alt="Databases" /></p>
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</div>
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,linux,bash,idea&theme=light" alt="Tools" /></p>
-
-**Security & Quality:** SonarQube · OWASP ZAP · OWASP Dependency Check · Trivy
-
----
+### Other Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,idea" />
+</div>
 
 ## 🚀 Featured Projects
 
 ### 🚌 CityBus – Urban Transport System
-*Team project* · [📁 Repository](https://github.com/hibaalaoui/Urban-Transport-System)
-- Cloud-native urban transport platform built with **Spring Boot microservices** (users, tickets, schedules, real-time geolocation, subscriptions, notifications)
-- **Stack:** Spring Cloud Gateway, Eureka, Kafka, Redis, PostgreSQL, MongoDB, React/TypeScript
-- **DevOps:** Docker, Kubernetes on **GKE**, **Terraform**, **GitHub Actions** CI/CD
+**Team Project** | *Microservices & Cloud* | [📁 Repository](https://github.com/hibaalaoui/Urban-Transport-System)
+- Cloud-native urban transport platform built with Spring Boot microservices (tickets, schedules, real-time geolocation, subscriptions, notifications)
+- **Tech Stack:** Spring Boot, Spring Cloud Gateway, Eureka, Kafka, Redis, PostgreSQL, MongoDB, React, TypeScript
+- **DevOps:** Docker, Kubernetes on GKE, Terraform, GitHub Actions CI/CD
 
 ### 🛰️ Space News Aggregator
-*Team project* · [📁 Repository](https://github.com/hibaalaoui/Space-News-Aggregator)
-- Real-time space news and mission data from **NASA** and **The Space Devs**, with keyword and date filters and per-user saved articles
-- **Gemini AI chatbot** answering space questions based on live article context
-- **Stack:** Spring Boot, Spring Security, JWT, Spring Data JPA, PostgreSQL
+**Team Project** | *Spring Boot & AI* | [📁 Repository](https://github.com/hibaalaoui/Space-News-Aggregator)
+- Real-time space news and mission data from NASA and The Space Devs, with filters and saved articles
+- **Tech Stack:** Spring Boot, Spring Security, JWT, Spring Data JPA, PostgreSQL, Gemini API
+- **Highlight:** Gemini AI chatbot answering space questions from live article context
 
 ### 🤖 AI DevSecOps Pipeline for Security Policy Management
-[📁 Repository](https://github.com/hibaalaoui/AI-DevSecOps-Project)
-- **GitHub Actions** pipeline integrating **SAST, SCA and DAST** on a Flask e-commerce application
-- **LLMs** analyze security reports and generate ISO-compliant security policies
+**DevSecOps & AI** | [📁 Repository](https://github.com/hibaalaoui/AI-DevSecOps-Project)
+- GitHub Actions pipeline integrating SAST, SCA and DAST on a Flask e-commerce application
+- **Highlight:** LLMs analyze security reports and generate ISO-compliant security policies
 
 ### 🔐 DevSecOps Pipeline for Deployment and Quality Check
-[📁 Repository](https://github.com/hibaalaoui/Jenkins-DevSecOps-Pipeline)
-- **Jenkins** pipeline for a Java application with **SonarQube** quality analysis and **Nexus** artifact management
-- Docker containerization and deployment on a **Kubernetes** cluster, built with **Maven**
+**DevSecOps** | [📁 Repository](https://github.com/hibaalaoui/Jenkins-DevSecOps-Pipeline)
+- Jenkins CI/CD for a Java application with SonarQube quality analysis and Nexus artifact management
+- **Tech Stack:** Jenkins, Maven, SonarQube, Nexus, Docker, Kubernetes
 
 ### ☁️ Cloud DevOps Pipeline using Azure Pipelines
-[📁 Repository](https://github.com/hibaalaoui/Azure-DevOps-Pipeline)
-- **Azure DevOps** pipeline for a Java Spring application with **Azure Artifacts**
-- Infrastructure provisioned with **Terraform**, deployment on **AKS** with **Azure Functions**
-
----
+**Cloud & DevOps** | [📁 Repository](https://github.com/hibaalaoui/Azure-DevOps-Pipeline)
+- Azure DevOps CI/CD for a Java Spring application with Azure Artifacts
+- **Tech Stack:** Azure DevOps, Terraform, Docker, AKS, Azure Functions
 
 ## 🏆 Languages & Certifications
 
-**Languages**
-- 🇫🇷 **TCF – Test de connaissance du français** · France Éducation International · **C2 (overall score)** · Nov 2025
+- 🇫🇷 **TCF – Test de connaissance du français** - France Éducation International (Nov 2025) | **Level C2**
+- ✅ **IBM SkillsBuild Data Analytics Certificate** - IBM (Feb 2026) | [🔗 View Certificate](https://www.credly.com/badges/2b6ddbb9-9539-4d3c-a677-7f0cc6cc0899/public_url)
+- ✅ **Introduction to Cybersecurity** - Cisco (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/1ad52889-3df3-4576-bc7c-4da4394e458c/public_url)
+- ✅ **AWS Educate Getting Started with Networking** - AWS (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/03cb41a8-7c66-4971-8239-a7661a694ab1/public_url)
+- ✅ **AWS Educate Introduction to Cloud 101** - AWS (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/921898b7-68f0-429c-8f22-016e9030a73f/public_url)
+- ✅ **Code Generation and Optimization Using IBM Granite** - IBM (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/cb7a226b-0f10-4546-bbd5-35363af54a5e/public_url)
 
-**Certifications**
-- ✅ **IBM SkillsBuild Data Analytics Certificate** · IBM SkillsBuild · Feb 2026 · [🔗 Credly](https://www.credly.com/badges/2b6ddbb9-9539-4d3c-a677-7f0cc6cc0899/public_url)
-- ✅ **Introduction to Cybersecurity** · Cisco Networking Academy · Mar 2025 · [🔗 Credly](https://www.credly.com/badges/1ad52889-3df3-4576-bc7c-4da4394e458c/public_url)
-- ✅ **AWS Educate Getting Started with Networking** · Amazon Web Services · Mar 2025 · [🔗 Credly](https://www.credly.com/badges/03cb41a8-7c66-4971-8239-a7661a694ab1/public_url)
-- ✅ **AWS Educate Introduction to Cloud 101** · Amazon Web Services · Feb 2025 · [🔗 Credly](https://www.credly.com/badges/921898b7-68f0-429c-8f22-016e9030a73f/public_url)
-- ✅ **Code Generation and Optimization Using IBM Granite** · IBM SkillsBuild · Feb 2025 · [🔗 Credly](https://www.credly.com/badges/cb7a226b-0f10-4546-bbd5-35363af54a5e/public_url)
+## 🤝 Leadership & Community
 
----
+- **Organizing Committee Member** - Graduation Ceremony, ENSIAS (Nov 2023)
+- **Co-organizer** - 1st CPGE Orientation Forum, CPGE Tétouan (Jan 2023)
+- **Treasurer** - Chess Club, CPGE Tétouan (2022 - 2023)
 
-## 🤝 Leadership & Student Life
+## 📫 Let's Connect!
 
-- **Organizing Committee Member** – Graduation Ceremony · ENSIAS, Rabat · Nov 2023
-- **Co-organizer** – 1st CPGE Orientation Forum · CPGE Tétouan · Jan 2023
-- **Treasurer** – Chess Club · CPGE Tétouan · 2022–2023 *(honorable mention at the chess tournament held with ENSA Tétouan)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hibaalaoui&show_icons=true&hide_border=false&title_color=2F6FB3&icon_color=2F6FB3&text_color=1C2A3A&bg_color=F7F9FC&border_color=D9E2EC" alt="Hiba's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibaalaoui&layout=compact&title_color=2F6FB3&text_color=1C2A3A&bg_color=F7F9FC&border_color=D9E2EC" alt="Top languages" />
-</div>
+<p align="center">
+  <a href="https://hibaalaoui.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hiba-alaoui"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:hiibaalaoui@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+</p>
 
 ---
-
-<div align="center">
-
-### 📫 Let's connect
-
-<a href="https://hibaalaoui.vercel.app"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-2F6FB3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/hiba-alaoui"><img src="https://img.shields.io/badge/LinkedIn-2F6FB3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hiibaalaoui@gmail.com"><img src="https://img.shields.io/badge/Email-2F6FB3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+<p align="center">
+  ⭐️ From <a href="https://github.com/hibaalaoui">hibaalaoui</a>
+</p>
