@@ -14,7 +14,7 @@
 
 ## 🎓 About Me
 
-State Engineer in **Software Engineering and Information Systems** from **École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)**
+**Software Engineer | Graduate'26** from **École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)**
 
 Passionate about **DevOps, Cloud & Full-Stack Development**
 
