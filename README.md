@@ -14,17 +14,17 @@
 
 ## 🎓 About Me
 
-State Engineer in **Software Engineering and Information Systems** from **ENSIAS**
+State Engineer in **Software Engineering and Information Systems** from **École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)**
 
 Passionate about **DevOps, Cloud & Full-Stack Development**
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif" />
 
-- 💼 **4 internships** in banking and industrial environments, from requirements to production
-- 🔭 Focus: **CI/CD, containerization, Infrastructure as Code** and **microservices architectures**
-- 🚀 Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
-- 🌍 Languages: French (**C2**, TCF certified), English (B2+), Arabic (Native)
-- 📫 How to reach me: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
+- **4 internships** in banking and industrial environments, from requirements to production
+- Focus: **CI/CD, Infrastructure as Code, Spring/React Stack** and **microservices architectures**
+- Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
+- Languages: French (**C2**, TCF certified), English (B2+), Arabic (Native)
+- 📩 How to reach me: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
 - 🌐 Portfolio: [hibaalaoui.vercel.app](https://hibaalaoui.vercel.app)
 
 <p align="center">
@@ -65,41 +65,41 @@ Passionate about **DevOps, Cloud & Full-Stack Development**
 
 ## 🚀 Featured Projects
 
-### 🚌 CityBus – Urban Transport System
+### CityBus – Urban Transport System
 **Team Project** | *Microservices & Cloud* | [📁 Repository](https://github.com/hibaalaoui/Urban-Transport-System)
 - Cloud-native urban transport platform built with Spring Boot microservices (tickets, schedules, real-time geolocation, subscriptions, notifications)
 - **Tech Stack:** Spring Boot, Spring Cloud Gateway, Eureka, Kafka, Redis, PostgreSQL, MongoDB, React, TypeScript
 - **DevOps:** Docker, Kubernetes on GKE, Terraform, GitHub Actions CI/CD
 
-### 🛰️ Space News Aggregator
+### Space News Aggregator
 **Team Project** | *Spring Boot & AI* | [📁 Repository](https://github.com/hibaalaoui/Space-News-Aggregator)
 - Real-time space news and mission data from NASA and The Space Devs, with filters and saved articles
 - **Tech Stack:** Spring Boot, Spring Security, JWT, Spring Data JPA, PostgreSQL, Gemini API
 - **Highlight:** Gemini AI chatbot answering space questions from live article context
 
-### 🤖 AI DevSecOps Pipeline for Security Policy Management
+### AI DevSecOps Pipeline for Security Policy Management
 **DevSecOps & AI** | [📁 Repository](https://github.com/hibaalaoui/AI-DevSecOps-Project)
 - GitHub Actions pipeline integrating SAST, SCA and DAST on a Flask e-commerce application
 - **Highlight:** LLMs analyze security reports and generate ISO-compliant security policies
 
-### 🔐 DevSecOps Pipeline for Deployment and Quality Check
+### DevSecOps Pipeline for Deployment and Quality Check
 **DevSecOps** | [📁 Repository](https://github.com/hibaalaoui/Jenkins-DevSecOps-Pipeline)
 - Jenkins CI/CD for a Java application with SonarQube quality analysis and Nexus artifact management
 - **Tech Stack:** Jenkins, Maven, SonarQube, Nexus, Docker, Kubernetes
 
-### ☁️ Cloud DevOps Pipeline using Azure Pipelines
+### Cloud DevOps Pipeline using Azure Pipelines
 **Cloud & DevOps** | [📁 Repository](https://github.com/hibaalaoui/Azure-DevOps-Pipeline)
 - Azure DevOps CI/CD for a Java Spring application with Azure Artifacts
 - **Tech Stack:** Azure DevOps, Terraform, Docker, AKS, Azure Functions
 
 ## 🏆 Languages & Certifications
 
-- 🇫🇷 **TCF – Test de connaissance du français** - France Éducation International (Nov 2025) | **Level C2**
-- ✅ **IBM SkillsBuild Data Analytics Certificate** - IBM (Feb 2026) | [🔗 View Certificate](https://www.credly.com/badges/2b6ddbb9-9539-4d3c-a677-7f0cc6cc0899/public_url)
-- ✅ **Introduction to Cybersecurity** - Cisco (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/1ad52889-3df3-4576-bc7c-4da4394e458c/public_url)
-- ✅ **AWS Educate Getting Started with Networking** - AWS (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/03cb41a8-7c66-4971-8239-a7661a694ab1/public_url)
-- ✅ **AWS Educate Introduction to Cloud 101** - AWS (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/921898b7-68f0-429c-8f22-016e9030a73f/public_url)
-- ✅ **Code Generation and Optimization Using IBM Granite** - IBM (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/cb7a226b-0f10-4546-bbd5-35363af54a5e/public_url)
+- **TCF – Test de connaissance du français** - France Éducation International (Nov 2025) | **Level C2**
+- **IBM SkillsBuild Data Analytics Certificate** - IBM (Feb 2026) | [🔗 View Certificate](https://www.credly.com/badges/2b6ddbb9-9539-4d3c-a677-7f0cc6cc0899/public_url)
+- **Introduction to Cybersecurity** - Cisco (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/1ad52889-3df3-4576-bc7c-4da4394e458c/public_url)
+- **AWS Educate Getting Started with Networking** - AWS (Mar 2025) | [🔗 View Certificate](https://www.credly.com/badges/03cb41a8-7c66-4971-8239-a7661a694ab1/public_url)
+- **AWS Educate Introduction to Cloud 101** - AWS (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/921898b7-68f0-429c-8f22-016e9030a73f/public_url)
+- **Code Generation and Optimization Using IBM Granite** - IBM (Feb 2025) | [🔗 View Certificate](https://www.credly.com/badges/cb7a226b-0f10-4546-bbd5-35363af54a5e/public_url)
 
 ## 🤝 Leadership & Community
 
