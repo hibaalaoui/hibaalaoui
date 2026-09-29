@@ -18,6 +18,8 @@ State Engineer in **Software Engineering and Information Systems** from **ENSIAS
 
 Passionate about **DevOps, Cloud & Full-Stack Development**
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif" />
+
 - 💼 **4 internships** in banking and industrial environments, from requirements to production
 - 🔭 Focus: **CI/CD, containerization, Infrastructure as Code** and **microservices architectures**
 - 🚀 Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
