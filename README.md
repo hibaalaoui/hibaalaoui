@@ -14,15 +14,15 @@
 
 ## 🎓 About Me
 
-**Software Engineer | Graduate'26** from **École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)**
+**Software Engineer | 2026 Graduate** from **École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)**
 
 Passionate about **DevOps, Cloud & Full-Stack Development**
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif" />
 
 - **4 internships** in banking and industrial environments, from requirements to production
-- Focus: **CI/CD, Infrastructure as Code, Spring/React Stack** and **microservices architectures**
-- Currently looking for opportunities in **DevOps, Software Engineering and Full-Stack Development**
+- Focus: **CI/CD, IaC, Spring/React Stack** and **microservices architectures**
+- Open for opportunities in **DevOps, Software Engineering and Full-Stack Development**
 - Languages: French (**C2**, TCF certified), English (B2+), Arabic (Native)
 - 📩 How to reach me: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
 - 🌐 Portfolio: [hibaalaoui.vercel.app](https://hibaalaoui.vercel.app)
