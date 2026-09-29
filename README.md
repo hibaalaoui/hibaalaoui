@@ -22,7 +22,7 @@ Passionate about **DevOps, Cloud & Full-Stack Development**
 
 - **4 internships** in banking and industrial environments, from requirements to production
 - Focus: **CI/CD, IaC, Spring/React Stack** and **microservices architectures**
-- Open for opportunities in **DevOps, Software Engineering and Full-Stack Development**
+- Open for opportunities in **DevOps, Software Engineering and Full-Stack**
 - Languages: French (**C2**, TCF certified), English (B2+), Arabic (Native)
 - 📩 How to reach me: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)
 - 🌐 Portfolio: [hibaalaoui.vercel.app](https://hibaalaoui.vercel.app)
@@ -110,7 +110,7 @@ Passionate about **DevOps, Cloud & Full-Stack Development**
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://hibaalaoui.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://hibaalaoui.vercel.app"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="40" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/hiba-alaoui-2a97b1288"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:hiibaalaoui@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 </p>
