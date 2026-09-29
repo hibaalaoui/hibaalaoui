@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hibaalaoui.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F6FB3&center=true&vCenter=true&width=520&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;ENSIAS%2726+Graduate" alt="Software Engineer · DevOps Engineer · Full-Stack Developer · ENSIAS'26 Graduate" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1200&color=2F6FB3&center=true&vCenter=true&width=520&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;ENSIAS%2726+Graduate" alt="Software Engineer · DevOps Engineer · Full-Stack Developer · ENSIAS'26 Graduate" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Passionate about **DevOps, Cloud & Full-Stack Development**
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://hibaalaoui.vercel.app"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="40" alt="Portfolio" /></a>&nbsp;
+  <a href="https://hibaalaoui.vercel.app"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hiba-alaoui-2a97b1288"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:hiibaalaoui@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 </p>
